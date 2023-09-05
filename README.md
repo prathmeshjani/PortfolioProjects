@@ -1,6 +1,7 @@
 # PortfolioProjects
 
-👋 Introduction
+## 👋 Introduction
+
 Hi! I'm Prathmesh, an aspiring data analysis or data science professional who seeking to apply my knowledge to real-world experiences. 
 Recently graduated from the Big Data Solution Architechture at Conestoga College, in which I got to learn end-to-end data science processes.
 
