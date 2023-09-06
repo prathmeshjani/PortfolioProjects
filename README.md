@@ -8,6 +8,7 @@ Recently graduated from the Big Data Solution Architecture at Conestoga College,
 This repository contains a portfolio of data science and data analyst projects that I have completed and showcases my skills and experience in this field. 
 My portfolio includes projects that demonstrate my ability to gather, process, and analyze large data sets, as well as my expertise in creating meaningful insights and visualizations.
 
+---
 
 ## 📂 Investigate Hotel Business using Data Visualization
 Project | Individual | [Full Documentation](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization) | [Notebook](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/blob/main/Investigate_Hotel_Business%20(2).ipynb)
