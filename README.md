@@ -25,8 +25,7 @@ In summary, City Hotel dominates in customer bookings, especially during holiday
 
 
 ## 📂 Investigate Hotel Business using Data Visualization
-Project | Individual | [Full Documentation](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization) | [Notebook](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/blob/main/Investigate_Hotel_Business%20(2).ipynb)
-
+Project | Individual | [Full Documentation](https://github.com/prathmeshjani/SQL_Covid_Data_Exploration) | [Notebook](https://github.com/prathmeshjani/SQL_Covid_Data_Exploration/COVID-DataExploration.sql)
 
 ### 📌 Description <br>
   - Developed a comprehensive SQL script to analyze and visualize COVID-19 data from various sources.
