@@ -22,3 +22,17 @@ In summary, City Hotel dominates in customer bookings, especially during holiday
 
 ⚙️ Library — Pandas, Matplotlib, Seaborn <br>
 💻 Area — Data Cleaning and Manipulation, Exploratory Data Analysis, Data Visualization with Python
+
+
+## 📂 Investigate Hotel Business using Data Visualization
+Project | Individual | [Full Documentation](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization) | [Notebook](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/blob/main/Investigate_Hotel_Business%20(2).ipynb)
+
+
+### 📌 Description <br>
+  - Developed a comprehensive SQL script to analyze and visualize COVID-19 data from various sources.
+  - Conducted in-depth data exploration and transformation to extract valuable insights related to the pandemic.
+
+The project provided actionable data insights that could aid public health agencies, policymakers, and researchers in understanding and responding to the COVID-19 pandemic and the created views and data structures facilitated ongoing data analysis and visualization efforts.
+
+
+💻 Area — SQL skills, data integration, CTEs, Windows Functions, and documentation
