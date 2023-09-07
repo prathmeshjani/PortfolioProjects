@@ -15,7 +15,8 @@ Project | Individual | [Full Documentation](https://github.com/prathmeshjani/Inv
 
 
 ### 📌 Description <br>
-This analysis focuses on evaluating the performance of the hotel industry using visualizations. The objective is to identify issues, weaknesses, and strengths within the hotel business by understanding customer behavior and adjusting strategies accordingly.
+  - This analysis focuses on evaluating the performance of the hotel industry using visualizations.
+  - The objective is to identify issues, weaknesses, and strengths within the hotel business by understanding customer behavior and adjusting strategies accordingly.
 
 In summary, City Hotel dominates in customer bookings, especially during holiday seasons. Cancellation rates tend to increase with longer stays, particularly in City Hotel. Shorter lead times result in fewer cancellations, while City Hotel faces higher cancellation rates for longer lead times. Resort Hotel exhibits a consistent cancellation rate of around 40%.
 
