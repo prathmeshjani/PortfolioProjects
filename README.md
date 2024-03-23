@@ -10,7 +10,7 @@ My portfolio includes projects that demonstrate my ability to gather, process, a
 
 ---
 
-## 📂 Investigate Hotel Business using Data Visualization
+## 📂 Investigate Hotel Business using Python
 Project | Individual | [Full Documentation](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization) | [Notebook](https://github.com/prathmeshjani/Investigate-Hotel-Business-using-DataVisualization/blob/main/Investigate_Hotel_Business%20(2).ipynb)
 
 
